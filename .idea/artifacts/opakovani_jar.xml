@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="opakovani:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/opakovani_jar</output-path>
+    <root id="archive" name="opakovani.jar">
+      <element id="module-output" name="opakovani" />
+    </root>
+  </artifact>
+</component>
