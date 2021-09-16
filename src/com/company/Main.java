@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        /* Naucim se site */
         Scanner sc = new Scanner(System.in);
         System.out.println("Zadejte prvni cislo: ");
         double a = sc.nextDouble();
